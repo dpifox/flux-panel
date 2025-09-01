@@ -3,9 +3,7 @@
 
 本项目基于 [go-gost/gost](https://github.com/go-gost/gost) 和 [go-gost/x](https://github.com/go-gost/x) 两个开源库，实现了转发面板。
 ---
-## 文档地址
-- [文档地址](https://loadinghtml.github.io/flux-panel)
----
+
 ## 特性
 
 - 支持按 **隧道账号级别** 管理流量转发数量，可用于用户/隧道配额控制
